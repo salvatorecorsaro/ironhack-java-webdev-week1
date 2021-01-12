@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class Loops {
     public static void main(String[] args) {
-        System.out.println("Introduction to loops:");
+        System.out.println("=== Introduction to loops: ===");
         int [] array = {5, 4, 3,2,1};
 
 
